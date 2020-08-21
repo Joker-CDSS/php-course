@@ -8,10 +8,18 @@
 
    <?php
 
-    echo "this is my first php code on XAMPP welcome Joker warmly";
+    echo "this is my first  <strong>php code</strong> on XAMPP welcome Joker warmly";
+    ?>
 
-   
-   ?>
+    <?php
+
+     $name = 'Edu';
+    $age = 18;
+    echo $name,$age;
+
+        
+
+    ?>
 
   </body>
 
